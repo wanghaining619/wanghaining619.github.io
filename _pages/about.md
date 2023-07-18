@@ -13,7 +13,7 @@ I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.b
 Education
 ======
 09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
-09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University, Beijing, China.   
+09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China.  
 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China.
 
 Getting started
