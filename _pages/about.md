@@ -29,6 +29,7 @@ Honors and Awards
 * Henan Province Outstanding Graduates, 07/2020
 * National Inspirational Scholarship, Outstanding Student Leader, Outstanding Student, 2016-2020
 
+
 Activities
 ======
 
