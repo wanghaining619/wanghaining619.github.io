@@ -49,18 +49,21 @@ Activities
 * Vice Chairman of the Graduate Association, Space Engineering University, 07/2021 — 07/2022
 * President of Student Society, Table tennis and badminton club of Zhengzhou University, 09/2017 — 09/2018
 
-**Markdown generator**
+Recent Works
+======
+<div class="row">
+          <div class="col s12 m12 l4 center aos-init aos-animate" data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-duration="500" data-aos-once="true">
+              <img class="responsive-img" src="./images/BDR-Net.png">
+          </div>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+          <div class="col s12 m12 l8 aos-init aos-animate" data-aos="fade-left" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-duration="500" data-aos-once="true">
+            <div class="paper-title">BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing</div>
+            <div class="paper-author"><font color="#0000dd"><b>Haining Wang</b></font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>*</sup>,  Shuyan Ni, Yalun Luo, Bitao Jiang</div>
+    
+            <div>
+              <img class="responsive-img icon" src="./images/pdf.png">
+              <a href="https://ieeexplore.ieee.org/document/9945883" target="_blank">[Paper homepage]</a>
+            </div>
+          
+          </div>
+      </div>
