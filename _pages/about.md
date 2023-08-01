@@ -49,22 +49,15 @@ Activities
 * Vice Chairman of the Graduate Association, Space Engineering University, 07/2021 — 07/2022
 * President of Student Society, Table tennis and badminton club of Zhengzhou University, 09/2017 — 09/2018
 
+   
 Recent Works
 ======
-<hr>
-<div class="row">
-          <div class="col s12 m12 l4 center aos-init aos-animate" data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-duration="500" data-aos-once="true">
-              <img class="responsive-img" src="./images/BDR-Net.png">
-          </div>
+* <font color="#0000dd"><b>Haining Wang</b></font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>*</sup>. "SRS-Net: Training Object Detectors From Scratch
+for Remote Sensing Images Without Pretraining", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)
 
-          <div class="col s12 m12 l8 aos-init aos-animate" data-aos="fade-left" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-duration="500" data-aos-once="true">
-            <div class="paper-title">BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing</div>
-            <div class="paper-author"><font color="#0000dd"><b>Haining Wang</b></font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>*</sup>,  Shuyan Ni, Yalun Luo, Bitao Jiang</div>
-    
-            <div>
-              <img class="responsive-img icon" src="./images/pdf.png">
-              <a href="https://ieeexplore.ieee.org/document/9945883" target="_blank">[Paper homepage]</a>
-            </div>
-          
-          </div>
-      </div>
+* <font color="#0000dd"><b>Haining Wang</b></font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>*</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", **IEEE Transactions on Instrumentation and Measurement**, 72, pp.5002612, 2022. (IF=5.6)
+  
+* Yang Li, <font color="#0000dd"><b>Haining Wang</b></font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>*</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)
+
+
+
