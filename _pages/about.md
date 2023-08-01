@@ -13,8 +13,8 @@ I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.b
 Education
 ======
 * 09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
-* 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China. (Supervisor: Prof. Liao Yurong) 
-* 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China. (Supervisor: Prof. Li Na) 
+* 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China. (Supervisor: Prof. Yurong Liao) 
+* 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China. (Supervisor: Prof. Na Li) 
 
 Honors and Awards
 ======
@@ -39,8 +39,8 @@ Activities
   <br>IEEE Geoscience and Remote Sensing Letters (GRSL)
   <br>Neural Computing and Applications (NCAA)
   <br>Chinese Automation Congress (CAC, 2022)
-* Attend The CCF Advanced Disciplines Lectures, 124th issue, "knowledge graph" (Supervisor: Prof. Wang Xiang, NUS), 12/2021
-* Attend The CCF Advanced Disciplines Lectures, 116th issue, "Large-scale pre-training model" (Supervisor: Prof. Song Ruihua, Renmin University of China), 05/2021
+* Attend The CCF Advanced Disciplines Lectures, 124th issue, "knowledge graph" (Supervisor: Prof. Xiang Wang, NUS), 12/2021
+* Attend The CCF Advanced Disciplines Lectures, 116th issue, "Large-scale pre-training model" (Supervisor: Prof. Ruihua Song, Renmin University of China), 05/2021
 
 **Daily**
 
