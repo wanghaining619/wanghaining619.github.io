@@ -13,8 +13,8 @@ I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.b
 Education
 ======
 * 09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
-* 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China.  
-* 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China.
+* 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China. (Supervisor: Prof. Liao Yurong) 
+* 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China. (Supervisor: Prof. Li Na) 
 
 Honors and Awards
 ======
@@ -29,9 +29,17 @@ Honors and Awards
 * Henan Province Outstanding Graduates, 07/2020
 * National Inspirational Scholarship, Outstanding Student Leader, Outstanding Student, 2016-2020
 
-Site-wide configuration
+Activities
+======
+Academic
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Journal and Conference Reviewers:
+  IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  IEEE Geoscience and Remote Sensing Letters (GRSL)
+  Neural Computing and Applications (NCAA)
+  Chinese Automation Congress (CAC, 2022)
+* Attend The CCF Advanced Disciplines Lectures, 124th issue, "knowledge graph" (Supervisor: Prof. Wang Xiang, NUS), 12/2021
+* Attend The CCF Advanced Disciplines Lectures, 116th issue, "Large-scale pre-training model" (Supervisor: Prof. Song Ruihua, Renmin University of China), 05/2021
 
 Create content & metadata
 ------
