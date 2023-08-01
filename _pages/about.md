@@ -31,8 +31,9 @@ Honors and Awards
 
 Activities
 ======
-Academic
-------
+
+**Academic**
+
 * Journal and Conference Reviewers:
   IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   IEEE Geoscience and Remote Sensing Letters (GRSL)
@@ -41,9 +42,12 @@ Academic
 * Attend The CCF Advanced Disciplines Lectures, 124th issue, "knowledge graph" (Supervisor: Prof. Wang Xiang, NUS), 12/2021
 * Attend The CCF Advanced Disciplines Lectures, 116th issue, "Large-scale pre-training model" (Supervisor: Prof. Song Ruihua, Renmin University of China), 05/2021
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Daily**
+
+* Enthusiastic about table tennis
+* Monitor, During high school, University, and Master, 09/2013 — 06/2023
+* Vice Chairman of the Graduate Association, Space Engineering University of PLA, 07/2021 — 07/2022
+* President of Student Society, Table tennis and badminton club of Zhengzhou University, 09/2017 — 09/2018
 
 **Markdown generator**
 
