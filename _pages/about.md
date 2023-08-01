@@ -19,6 +19,7 @@ Education
 Honors and Awards
 ======
 * Outstanding Graduate Elite Award in Space Engineering University of PLA, 07/2023
+* Outstanding Member of the Communist Party of China, 07/2022
 * The 1st prize in 7th China Graduate Future Flight Vehicle Innovation Competition, 11/2021
 * The 1st prize in China Engineering Robot Competition and International Open, Aerial Robot Project, 11/2021
 * The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 11/2021
