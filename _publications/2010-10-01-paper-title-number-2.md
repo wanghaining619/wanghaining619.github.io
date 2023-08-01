@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-2
+excerpt: '' 
+date: 2022-05-30
+venue: '通信学报'
+paperurl: 'http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022071'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Object detection in Remote Sensing (RS) has achieved tremendous advances in recent years, but it remains challenging for rotated object detection due to cluttered backgrounds, dense object arrangements and the wide range of size variations among objects. To tackle this problem, Dense Context Feature Pyramid Network (DCFPN) and a power a-Gaussian loss are designed for rotated object detection in this paper. The proposed DCFPN can extract multi-scale information densely and accurately by leveraging a dense multi-path dilation layer to cover all sizes of objects in remote sensing scenarios. For more accurate detection while avoiding bottlenecks such as boundary discontinuity in rotated bounding box regression, a-Gaussian loss, a unified power generalization of existing Gaussian modeling losses is proposed. Furthermore, the properties of a-Gaussian loss are analyzed comprehensively for a wider range of applications. Experimental results on four datasets (UCAS-AOD, HRSC2016, DIOR-R, and DOTA) show the effectiveness of the proposed method using different detectors, and are superior to the existing methods in both feature extraction and bounding box regression.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022071)
