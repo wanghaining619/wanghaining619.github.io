@@ -12,18 +12,21 @@ I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.b
 
 Education
 ======
-09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
-09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China.  
-09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China.
+* 09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
+* 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China.  
+* 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China.
 
-Getting started
+Honors and Awards
 ======
-* Register a GitHub account if you don't have one and confirm your e-mail (required!)
-* Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Outstanding Graduate Elite Award in Space Engineering University of PLA, 07/2023
+* The 1st prize in 7th China Graduate Future Flight Vehicle Innovation Competition, 11/2021
+* The 1st prize in China Engineering Robot Competition and International Open, Aerial Robot Project, 11/2021
+* The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 11/2021
+* The 2st prize in 16th China Graduate Electronic Design Competition, 08/2021
+* The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 12/2020
+* First Prize, Graduate Scholarship, 10/2022 & 10/2021 & 09/2020
+* Henan Province Outstanding Graduates, 07/2020
+* National Inspirational Scholarship, Outstanding Student Leader, Outstanding Student, 2016-2020
 
 Site-wide configuration
 ------
