@@ -17,6 +17,8 @@ Education
 * 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China. (Supervisor: Prof. Yurong Liao) 
 * 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China. (Supervisor: Prof. Na Li) 
 
+<hr>
+
 Honors and Awards
 ======
 * Outstanding Graduate Elite Award in Space Engineering University of PLA, 07/2023
@@ -30,6 +32,19 @@ Honors and Awards
 * Henan Province Outstanding Graduates, 07/2020
 * National Inspirational Scholarship, Outstanding Student Leader, Outstanding Student, 2016-2020
 
+<hr>
+
+Recent Works
+======
+* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 2023. (IF=5.7)</div>
+
+* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>†</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", <b>IEEE Transactions on Instrumentation and Measurement</b>, 72, pp.5002612, 2022. (IF=5.6)</div>
+  
+* <div class="paper">Yang Li, <font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>†</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", <b>Chinese Journal of Aeronautics</b>, 2023. (IF=5.7)</div>
+
+* <div class="paper">Yurong Liao, <font color="#0000dd">Haining Wang</font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>†</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", <b>通信学报</b>, 43(5), pp.190-203, 2022. (CCF-T1)</div>
+
+<hr>
 
 Activities
 ======
@@ -52,12 +67,3 @@ Activities
 * President of Student Society, Table tennis and badminton club of Zhengzhou University, 09/2017 — 09/2018
 
    
-Recent Works
-======
-* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 2023. (IF=5.7)</div>
-
-* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>†</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", <b>IEEE Transactions on Instrumentation and Measurement</b>, 72, pp.5002612, 2022. (IF=5.6)</div>
-  
-* <div class="paper">Yang Li, <font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>†</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", <b>Chinese Journal of Aeronautics</b>, 2023. (IF=5.7)</div>
-
-* <div class="paper">Yurong Liao, <font color="#0000dd">Haining Wang</font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>†</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", <b>通信学报</b>, 43(5), pp.190-203, 2022. (CCF-T1)</div>
