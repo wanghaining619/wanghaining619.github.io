@@ -59,5 +59,5 @@ for Remote Sensing Images Without Pretraining", **Chinese Journal of Aeronautics
   
 * Yang Li, <font color="#0000dd"><b>Haining Wang</b></font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>*</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)
 
-
+* Yurong Liao, <font color="#0000dd"><b>Haining Wang</b></font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>*</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", **通信学报**, 43(5), pp.190-203, 2022. (CCF-T1)
 
