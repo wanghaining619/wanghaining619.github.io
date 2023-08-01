@@ -35,10 +35,10 @@ Activities
 **Academic**
 
 * Journal and Conference Reviewers:
-  IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-  IEEE Geoscience and Remote Sensing Letters (GRSL)
-  Neural Computing and Applications (NCAA)
-  Chinese Automation Congress (CAC, 2022)
+    IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+    IEEE Geoscience and Remote Sensing Letters (GRSL)
+    Neural Computing and Applications (NCAA)
+    Chinese Automation Congress (CAC, 2022)
 * Attend The CCF Advanced Disciplines Lectures, 124th issue, "knowledge graph" (Supervisor: Prof. Wang Xiang, NUS), 12/2021
 * Attend The CCF Advanced Disciplines Lectures, 116th issue, "Large-scale pre-training model" (Supervisor: Prof. Song Ruihua, Renmin University of China), 05/2021
 
