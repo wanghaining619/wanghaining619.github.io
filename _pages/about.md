@@ -46,7 +46,7 @@ Activities
 
 * Enthusiastic about table tennis
 * Monitor, During high school, University, and Master, 09/2013 — 06/2023
-* Vice Chairman of the Graduate Association, Space Engineering University of PLA, 07/2021 — 07/2022
+* Vice Chairman of the Graduate Association, Space Engineering University, 07/2021 — 07/2022
 * President of Student Society, Table tennis and badminton club of Zhengzhou University, 09/2017 — 09/2018
 
 **Markdown generator**
