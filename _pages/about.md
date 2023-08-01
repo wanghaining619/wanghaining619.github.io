@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). Also, my laboratory is Aerospace Optical-Microwave Integrated Precision Intelligent Sensing, Key Laboratory of Ministry of Industry and Information Technology (空天光学-微波一体化精准智能感知，工信部重点实验室). My research interest includes computer vision, remote sensing, deep learning, and pattern recognition.
 
+<hr>
+
 Education
 ======
 * 09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
