@@ -51,6 +51,7 @@ Activities
 
 Recent Works
 ======
+<hr>
 <div class="row">
           <div class="col s12 m12 l4 center aos-init aos-animate" data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-duration="500" data-aos-once="true">
               <img class="responsive-img" src="./images/BDR-Net.png">
