@@ -52,12 +52,10 @@ Activities
    
 Recent Works
 ======
-* <font color="#0000dd"><b>Haining Wang</b></font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>*</sup>. "SRS-Net: Training Object Detectors From Scratch
-for Remote Sensing Images Without Pretraining", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)
+* <div class="paper"><font color="#0000dd"><b>Haining Wang</b></font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>*</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)</div>
 
-* <font color="#0000dd"><b>Haining Wang</b></font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>*</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", **IEEE Transactions on Instrumentation and Measurement**, 72, pp.5002612, 2022. (IF=5.6)
+* <div class="paper"><font color="#0000dd"><b>Haining Wang</b></font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>*</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", **IEEE Transactions on Instrumentation and Measurement**, 72, pp.5002612, 2022. (IF=5.6)</div>
   
-* Yang Li, <font color="#0000dd"><b>Haining Wang</b></font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>*</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)
+* <div class="paper">Yang Li, <font color="#0000dd"><b>Haining Wang</b></font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>*</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", **Chinese Journal of Aeronautics**, 2023. (IF=5.7)</div>
 
-* Yurong Liao, <font color="#0000dd"><b>Haining Wang</b></font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>*</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", **通信学报**, 43(5), pp.190-203, 2022. (CCF-T1)
-
+* <div class="paper">Yurong Liao, <font color="#0000dd"><b>Haining Wang</b></font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>*</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", **通信学报**, 43(5), pp.190-203, 2022. (CCF-T1)</div>
