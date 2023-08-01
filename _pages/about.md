@@ -67,4 +67,6 @@ Activities
 * Vice Chairman of the Graduate Association, Space Engineering University, 07/2021 — 07/2022
 * President of Student Society, Table tennis and badminton club of Zhengzhou University, 09/2017 — 09/2018
 
-   
+<hr>
+
+<p><a href="https://info.flagcounter.com/LKD4"><img src="https://s01.flagcounter.com/map/LKD4/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></p>
