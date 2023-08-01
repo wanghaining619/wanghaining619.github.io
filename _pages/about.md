@@ -58,7 +58,7 @@ Activities
   <br>IEEE Geoscience and Remote Sensing Letters (GRSL)
   <br>Neural Computing and Applications (NCAA)
   <br>Chinese Automation Congress (CAC, 2022)
-* Attend The CCF Advanced Disciplines Lectures, 124th issue, "knowledge graph" (Supervisor: Prof. Xiang Wang, NUS), 12/2021
+* Attend The CCF Advanced Disciplines Lectures, 124th issue, "Knowledge graph" (Supervisor: Prof. Xiang Wang, NUS), 12/2021
 * Attend The CCF Advanced Disciplines Lectures, 116th issue, "Large-scale pre-training model" (Supervisor: Prof. Ruihua Song, Renmin University of China), 05/2021
 
 **Daily**
