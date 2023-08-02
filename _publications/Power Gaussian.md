@@ -2,7 +2,7 @@
 title: "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images"
 collection: publications
 permalink: /publication/Power Gaussian
-excerpt: 'Yang Li, <div class="paper"><font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang†</div>' 
+excerpt: '<div class="paper">Yang Li, <font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang†</div>' 
 date: 2023-01-01
 venue: 'Chinese Journal of Aeronautics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1000936123001425'
