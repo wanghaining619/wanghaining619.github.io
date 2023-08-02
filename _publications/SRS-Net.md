@@ -2,7 +2,7 @@
 title: "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining"
 collection: publications
 permalink: /publication/SRS-Net
-excerpt: '' 
+excerpt: '<font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni†' 
 date: 2023-02-08
 venue: 'Chinese Journal of Aeronautics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1000936123000249'
