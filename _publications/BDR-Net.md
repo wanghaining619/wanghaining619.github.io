@@ -6,7 +6,6 @@ excerpt: '<div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong L
 date: 2023-02-01
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 paperurl: 'https://ieeexplore.ieee.org/document/9945883'
-<hr>
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/document/9945883)
