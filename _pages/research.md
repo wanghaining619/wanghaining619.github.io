@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research interets"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+1. Deep learning methods for image processing
+   * Object detection
+   * Model training and inference 
+
+2. Hyperspectral remote sensing
+   *  Information fusion
+   *  Infrared and visible feature mapping
+
+
