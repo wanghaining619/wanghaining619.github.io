@@ -13,26 +13,18 @@ I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.b
 
 <hr>
 
+News
+======  
+* 08/2023: I'm supported by Freshman Doctoral Scholarship, Beihang University
+* 08/2023: I'm joining Institute of Artificial Intelligence at Beihang University as a Ph.D. student, supervised by [Prof. Na Li](https://iai.buaa.edu.cn/info/1013/1035.htm)
+
+<hr>
+
 Education
 ======
 * 09/2016 — 06/2020: B.S. in Electronic Information Engineering, Zhengzhou University, Henan, China.   
 * 09/2020 — 07/2023: M.S. in Electronic Information, Department of Electronic and Optical Engineering, Space Engineering University of PLA, Beijing, China. (Supervisor: Prof. Yurong Liao) 
 * 09/2023 —— : Doctoral student in Electronic Information, Institute of Artificial Intelligence, Beihang University, Beijing, China. (Supervisor: Prof. Na Li) 
-
-<hr>
-
-Honors and Awards
-======
-* Outstanding Graduate Elite Award in Space Engineering University of PLA, 07/2023
-* Outstanding Member of the Communist Party of China, 07/2022
-* The 1st prize in 7th China Graduate Future Flight Vehicle Innovation Competition, 11/2021
-* The 1st prize in China Engineering Robot Competition and International Open, Aerial Robot Project, 11/2021
-* The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 11/2021
-* The 2st prize in 16th China Graduate Electronic Design Competition, 08/2021
-* The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 12/2020
-* First Prize, Graduate Scholarship, 10/2022 & 10/2021 & 09/2020
-* Henan Province Outstanding Graduates, 07/2020
-* National Inspirational Scholarship, Outstanding Student Leader, Outstanding Student, 2016-2020
 
 <hr>
 
@@ -45,6 +37,22 @@ Recent Works
 * <div class="paper">Yang Li, <font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>†</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", <b>Chinese Journal of Aeronautics</b>, 2023. (IF=5.7)</div>
 
 * <div class="paper">Yurong Liao, <font color="#0000dd">Haining Wang</font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>†</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", <b>通信学报</b>, 43(5), pp.190-203, 2022. (CCF-T1)</div>
+
+<hr>
+
+Honors and Awards
+======
+* Freshman Doctoral Scholarship, Beihang University, 08/2023
+* Outstanding Graduate Elite Award in Space Engineering University of PLA, 07/2023
+* Outstanding Member of the Communist Party of China, 07/2022
+* The 1st prize in 7th China Graduate Future Flight Vehicle Innovation Competition, 11/2021
+* The 1st prize in China Engineering Robot Competition and International Open, Aerial Robot Project, 11/2021
+* The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 11/2021
+* The 2st prize in 16th China Graduate Electronic Design Competition, 08/2021
+* The 1st prize in China Engineering Robot Competition and International Open, Bipedal Walking Project, 12/2020
+* First Prize, Graduate Scholarship, 10/2022 & 10/2021 & 09/2020
+* Henan Province Outstanding Graduates, 07/2020
+* National Inspirational Scholarship, Outstanding Student Leader, Outstanding Student, 2016-2020
 
 <hr>
 
