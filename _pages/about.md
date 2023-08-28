@@ -38,7 +38,7 @@ Honors and Awards
 
 Recent Works
 ======
-* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 2023. (IF=5.7)</div>
+* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 36(8), pp.269-283, 2023. (IF=5.7)</div>
 
 * <div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>†</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", <b>IEEE Transactions on Instrumentation and Measurement</b>, 72, pp.5002612, 2022. (IF=5.6)</div>
   
