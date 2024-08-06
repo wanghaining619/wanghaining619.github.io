@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SRS-Net
 excerpt: '<div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni†</div>' 
 date: 2023-02-08
-venue: 'Chinese Journal of Aeronautics'
+venue: 'Chinese Journal of Aeronautics (<b>中科院一区SCI</b>)'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1000936123000249'
 ---
 
