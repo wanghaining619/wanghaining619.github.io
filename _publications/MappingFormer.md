@@ -2,13 +2,13 @@
 title: "MappingFormer: Learning cross-modal feature mapping for visible-to-infrared image translation"
 collection: publications
 permalink: /publication/MappingFormer
-excerpt: '<div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang†, Shuyan Ni, Yalun Luo, and Bitao Jiang</div>' 
+excerpt: '<div class="paper"><font color="#0000dd">Haining Wang<sup>*</sup></font>, Na Li<sup>*</sup>, Huijie Zhao<sup>†</sup>, Yan Wen, Yi Su, and Yuqiang Fang</div>'
 date: 2024-07-15
 venue: ' In Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM 2024)'
 paperurl: ''
 ---
 
-<div class="paper"><font color="#0000dd">Haining Wang*, Na Li*, Huijie Zhao†, Yan Wen, Yi Su, and Yuqiang Fang</div>
+<div class="paper"><font color="#0000dd">Haining Wang<sup>*</sup></font>, Na Li<sup>*</sup>, Huijie Zhao<sup>†</sup>, Yan Wen, Yi Su, and Yuqiang Fang</div>
 
 [Download paper here](https://ieeexplore.ieee.org/document/9945883)
 
