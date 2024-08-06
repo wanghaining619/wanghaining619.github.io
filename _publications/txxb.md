@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/txxb
 excerpt: '<div class="paper">Yurong Liao, <font color="#0000dd">Haining Wang</font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni†</div>' 
 date: 2022-05-30
-venue: '通信学报'
+venue: '<b>通信学报</b>'
 paperurl: 'http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022071'
 ---
 
