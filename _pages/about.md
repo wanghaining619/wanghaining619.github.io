@@ -16,7 +16,7 @@ I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.b
 News
 ======  
 * 07/2024: One paper on image translation (MappingFormer) is accepted by <b>ACM MM 2024</b>
-* 08/2023: I'm supported by Freshman Doctoral Scholarship, Beihang University
+* 09/2023: I'm supported by Freshman Doctoral Scholarship, Beihang University
 * 08/2023: I'm joining Institute of Artificial Intelligence at Beihang University as a Ph.D. student, supervised by [Prof. Na Li](https://iai.buaa.edu.cn/info/1013/1035.htm)
 
 <hr>
@@ -33,13 +33,13 @@ Recent Works
 ======
 * <div class="paper"><font color="#0000dd">Haining Wang<sup>*</sup></font>, Na Li<sup>*</sup>, Huijie Zhao<sup>†</sup>, Yan Wen, Yi Su, and Yuqiang Fang. "MappingFormer: Learning cross-modal feature mapping for visible-to-infrared image translation", <b>ACM MM 2024</b>, Melbourne, Australia, 2024. (CCF-A类会议)
 
-* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 36(8), pp.269-283, 2023. (中科院SCI一区)</div>
+* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 36(8), pp.269-283, 2023. (中科院一区SCI)</div>
 
-* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>†</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", <b>IEEE Transactions on Instrumentation and Measurement</b>, 72, pp.5002612, 2022. (中科院SCI二区)</div>
+* <div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang<sup>†</sup>, Shuyan Ni, Yalun Luo, and Bitao Jiang. "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for Rotating Object Detection in Remote Sensing", <b>IEEE Transactions on Instrumentation and Measurement</b>, 72, pp.5002612, 2022. (中科院二区SCI)</div>
 
-* <div class="paper">Yang Li, <font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>†</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", <b>Chinese Journal of Aeronautics</b>, 2023. (中科院SCI一区)</div>
+* <div class="paper">Yang Li, <font color="#0000dd">Haining Wang</font>, Yuqiang Fang, Shengjin Wang, Zhi Li, Bitao Jiang<sup>†</sup>. "Learning Power Gaussian Modeling Loss for Dense Rotated Object Detection in Remote Sensing Images", <b>Chinese Journal of Aeronautics</b>, 2023. (中科院一区SCI)</div>
 
-* <div class="paper">Shuyan Ni, Cunbao Lin, <font color="#0000dd">Haining Wang<sup>†</sup>, Yang Li, Yurong Liao, Na Li. "Learning geometric Jensen-Shannon divergence for tiny object detection in remote sensing images", <b>Frontiers in Neurorobotics</b>, 17:1273251, 2023. (中科院SCI三区)</div>
+* <div class="paper">Shuyan Ni, Cunbao Lin, <font color="#0000dd">Haining Wang<sup>†</sup></font>, Yang Li, Yurong Liao, Na Li. "Learning geometric Jensen-Shannon divergence for tiny object detection in remote sensing images", <b>Frontiers in Neurorobotics</b>, 17:1273251, 2023. (中科院三区SCI)</div>
 
 * <div class="paper">Yurong Liao, <font color="#0000dd">Haining Wang</font>, Cunbao Lin, Yang Li, Yuqiang Fang, Shuyan Ni<sup>†</sup>. "Research Progress of Deep Learning-based Object Detection of Optical Remote Sensing Image", <b>通信学报</b>, 43(5), pp.190-203, 2022. </div>
 
@@ -47,7 +47,7 @@ Recent Works
 
 Honors and Awards
 ======
-* Freshman Doctoral Scholarship, Beihang University, 08/2023
+* Freshman Doctoral Scholarship, Beihang University, 09/2023
 * Outstanding Graduate Elite Award in Space Engineering University of PLA, 07/2023
 * The 1st prize in 7th China Graduate Future Flight Vehicle Innovation Competition, 11/2021
 * The 1st prize in China Engineering Robot Competition and International Open, Aerial Robot Project, 11/2021
