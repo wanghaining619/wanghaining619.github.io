@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-1. Deep learning methods for image processing
+1.  Artificial intelligence methods for image processing
+   * Image translation
    * Object detection
-   * Model training and inference 
+   * Deep learning model training and inference 
 
-2. Hyperspectral remote sensing
-   *  Information fusion
-   *  Infrared and visible feature mapping
+2. Satellite/Aerial remote sensing
+   *  Infrared and visible image
+   *  Cross-modal interpretation
 
 
