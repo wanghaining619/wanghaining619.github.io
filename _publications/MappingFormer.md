@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MappingFormer
 excerpt: '<div class="paper"><font color="#0000dd">Haining Wang<sup>*</sup></font>, Na Li<sup>*</sup>, Huijie Zhao<sup>†</sup>, Yan Wen, Yi Su, and Yuqiang Fang</div>'
 date: 2024-07-15
-venue: ' In Proceedings of the 32nd ACM International Conference on Multimedia (<b>ACM MM 2024, CCF-A类会议</b>)'
+venue: ' <b>Proceedings of the 32nd ACM International Conference on Multimedia</b> (ACM MM 2024, CCF-A类会议)'
 paperurl: 'https://openreview.net/forum?id=BDNtXFXO5n'
 ---
 
