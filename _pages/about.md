@@ -77,4 +77,4 @@ Activities
   
 <hr>
 
-<p><a href="https://info.flagcounter.com/kYWl"><img src="https://s01.flagcounter.com/map/kYWl/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></p>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cce8a7&w=380&t=tt&d=Knfyykk6NbOJElVzYVVL3Ty7kip_YCSCAej2_hH4FfY&co=81b7dd&cmo=29e05a&cmn=c1596d&ct=ffffff'></script>
