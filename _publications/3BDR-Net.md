@@ -3,7 +3,7 @@ title: "BDR-Net: Bhattacharyya Distance-Based Distribution Metric Modeling for R
 collection: publications
 permalink: /publication/BDR-Net
 excerpt: '<div class="paper"><font color="#0000dd">Haining Wang</font>, Yurong Liao, Yang Li, Yuqiang Fang†, Shuyan Ni, Yalun Luo, and Bitao Jiang</div>' 
-date: 2023-02-01
+date: 2023-12-01
 venue: '<b>IEEE Transactions on Instrumentation and Measurement</b> (中科院二区SCI)'
 paperurl: 'https://ieeexplore.ieee.org/document/9945883'
 ---
