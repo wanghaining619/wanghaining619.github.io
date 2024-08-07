@@ -3,7 +3,7 @@ title: "Learning geometric Jensen-Shannon divergence for tiny object detection i
 collection: publications
 permalink: /publication/JSDNet
 excerpt: '<div class="paper">Shuyan Ni, Cunbao Lin, <font color="#0000dd">Haining Wang†</font>, Yang Li, Yurong Liao, Na Li</div>' 
-date: 2023-11-09
+date: 2023-09-09
 venue: '<b>Frontiers in Neurorobotics</b> (中科院三区SCI)'
 paperurl: 'https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2023.1273251/full'
 ---
