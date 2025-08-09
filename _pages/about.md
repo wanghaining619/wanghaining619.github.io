@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). Also, my laboratory is Aerospace Optical-Microwave Integrated Precision Intelligent Sensing, Key Laboratory of Ministry of Industry and Information Technology (空天光学-微波一体化精准智能感知，工信部重点实验室). My research interest includes computer vision, remote sensing, deep learning, and pattern recognition.
+I'm a doctoral student from [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). Also, my laboratory is Aerospace Optical-Microwave Integrated Precision Intelligent Sensing, Key Laboratory of Ministry of Industry and Information Technology (空天光学-微波一体化精准智能感知，工信部重点实验室). My research interest includes computer vision, image translation, remote sensing, and pattern recognition.
 
 <hr>
 
 News
-======  
+======
+* 06/2025: One paper on image translation (ThermalMask) is accepted by <b>TGRS 2025</b>
 * 07/2024: One paper on image translation (MappingFormer) is accepted by <b>ACM MM 2024</b>
 * 09/2023: I'm supported by Freshman Doctoral Scholarship, Beihang University
 * 08/2023: I'm joining Institute of Artificial Intelligence at Beihang University as a Ph.D. student, supervised by [Prof. Na Li](https://iai.buaa.edu.cn/info/1013/1035.htm)
@@ -31,6 +32,8 @@ Education
 
 Recent Works
 ======
+* <div class="paper">Na Li<sup>*</sup>, <font color="#0000dd">Haining Wang</font>, Huijie Zhao<sup>†</sup>, Wen Ou. "Cross-Modal Visible-to-Infrared Image Translation in Remote Sensing Guided by Thermal Features", <b>IEEE Transactions on Geoscience and Remote Sensing</b>, 63, pp.5628916, 2025. (中科院一区SCI，导师一作，本人二作)
+
 * <div class="paper"><font color="#0000dd">Haining Wang<sup>*</sup></font>, Na Li<sup>*</sup>, Huijie Zhao<sup>†</sup>, Yan Wen, Yi Su, and Yuqiang Fang. "MappingFormer: Learning cross-modal feature mapping for visible-to-infrared image translation", <b>ACM MM 2024</b>, Melbourne, Australia, 2024. (CCF-A类会议)
 
 * <div class="paper"><font color="#0000dd">Haining Wang</font>, Yang Li, Yuqiang Fang, Yurong Liao, Bitao Jiang, Xitao Zhang, and Shuyan Ni<sup>†</sup>. "SRS-Net: Training Object Detectors From Scratch for Remote Sensing Images Without Pretraining", <b>Chinese Journal of Aeronautics</b>, 36(8), pp.269-283, 2023. (中科院一区SCI)</div>
