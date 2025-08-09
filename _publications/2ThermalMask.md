@@ -8,7 +8,7 @@ venue: ' <b>IEEE Transactions on Geoscience and Remote Sensing</b> (中科院一
 paperurl: 'https://ieeexplore.ieee.org/document/11032152'
 ---
 
-<div class="paper"><div class="paper">Na Li, <font color="#0000dd">Haining Wang, Huijie Zhao<sup>†</sup>, Wen Ou</div>
+<div class="paper"><div class="paper">Na Li, <font color="#0000dd">Haining Wang</font>, Huijie Zhao<sup>†</sup>, Wen Ou</div>
 
 [Download paper here](https://ieeexplore.ieee.org/document/11032152)
 
