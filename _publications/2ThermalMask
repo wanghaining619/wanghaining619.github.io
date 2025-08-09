@@ -2,7 +2,7 @@
 title: "Cross-Modal Visible-to-Infrared Image Translation in Remote Sensing Guided by Thermal Features"
 collection: publications
 permalink: /publication/ThermalMask
-excerpt: '<div class="paper">Na Li, <font color="#0000dd">Haining Wang, Huijie Zhao<sup>†</sup>, Wen Ou</div>'
+excerpt: '<div class="paper">Na Li, <font color="#0000dd">Haining Wang, Huijie Zhao<sup>†</sup>, Wen Ou'
 date: 2025-06-12
 venue: ' <b>IEEE Transactions on Geoscience and Remote Sensing</b> (中科院一区SCI)'
 paperurl: 'https://ieeexplore.ieee.org/document/11032152'
