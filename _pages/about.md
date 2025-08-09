@@ -32,7 +32,7 @@ Education
 
 Recent Works
 ======
-* <div class="paper">Na Li<sup>*</sup>, <font color="#0000dd">Haining Wang</font>, Huijie Zhao<sup>†</sup>, Wen Ou. "Cross-Modal Visible-to-Infrared Image Translation in Remote Sensing Guided by Thermal Features", <b>IEEE Transactions on Geoscience and Remote Sensing</b>, 63, pp.5628916, 2025. (中科院一区SCI，导师一作，本人二作)
+* <div class="paper">Na Li, <font color="#0000dd">Haining Wang</font>, Huijie Zhao<sup>†</sup>, Wen Ou. "Cross-Modal Visible-to-Infrared Image Translation in Remote Sensing Guided by Thermal Features", <b>IEEE Transactions on Geoscience and Remote Sensing</b>, 63, pp.5628916, 2025. (中科院一区SCI，导师一作，本人二作)
 
 * <div class="paper"><font color="#0000dd">Haining Wang<sup>*</sup></font>, Na Li<sup>*</sup>, Huijie Zhao<sup>†</sup>, Yan Wen, Yi Su, and Yuqiang Fang. "MappingFormer: Learning cross-modal feature mapping for visible-to-infrared image translation", <b>ACM MM 2024</b>, Melbourne, Australia, 2024. (CCF-A类会议)
 
